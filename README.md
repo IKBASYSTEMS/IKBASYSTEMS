@@ -89,7 +89,7 @@ To empower businesses with **intelligent technology**, automation, and scalable 
 ## 📞 Let’s Connect
 
 🌐 **Website:** https://kbasystems.com  
-📧 **Email:** your-email@ikbasystems.com  
+📧 **Email:** ceo@kbasystems.com  
 📍 **Location:** India  
 
 ---
