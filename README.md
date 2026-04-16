@@ -88,9 +88,13 @@ To empower businesses with **intelligent technology**, automation, and scalable 
 
 ## 📞 Let’s Connect
 
-🌐 Website: https://kbasystems.com *(reference style inspiration)*
-📧 Email: [your-email@ikbasystems.com](mailto:your-email@ikbasystems.com)
-📍 India
+🌐 **Website:** https://kbasystems.com  
+📧 **Email:** your-email@ikbasystems.com  
+📍 **Location:** India  
+
+---
+
+👉 Let’s build something powerful together 🚀
 
 👉 Let’s build something powerful together.
 
