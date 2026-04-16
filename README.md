@@ -96,8 +96,6 @@ To empower businesses with **intelligent technology**, automation, and scalable 
 
 👉 Let’s build something powerful together 🚀
 
-👉 Let’s build something powerful together.
-
 ---
 
 ## ⚡ Fun Fact
