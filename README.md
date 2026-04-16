@@ -68,11 +68,11 @@ To empower businesses with **intelligent technology**, automation, and scalable 
 
 ## 💼 Why Choose Us
 
-✔ AI-first development approach
-✔ Scalable & production-ready architecture
-✔ Strong backend + system design expertise
-✔ Cost-effective offshore development
-✔ End-to-end delivery (Idea → Launch → Scale)
+- ✔ AI-first development approach  
+- ✔ Scalable & production-ready architecture  
+- ✔ Strong backend & system design expertise  
+- ✔ Cost-effective offshore development  
+- ✔ End-to-end delivery (Idea → Launch → Scale)  
 
 ---
 
