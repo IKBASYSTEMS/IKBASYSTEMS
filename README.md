@@ -20,23 +20,23 @@ To empower businesses with **intelligent technology**, automation, and scalable 
 
 ## 💡 What We Do
 
-🔹 AI/ML Solutions & Automation
-🔹 Custom Web & Mobile App Development
-🔹 SaaS Platforms & Enterprise Software
-🔹 VoIP, Real-time Systems & Communication Apps
-🔹 Cloud & DevOps (AWS, Docker, Kubernetes)
-🔹 UI/UX Design & Product Engineering
+- AI/ML Solutions & Automation  
+- Custom Web & Mobile App Development  
+- SaaS Platforms & Enterprise Software  
+- VoIP, Real-time Systems & Communication Apps  
+- Cloud & DevOps (AWS, Docker, Kubernetes)  
+- UI/UX Design & Product Engineering  
 
 ---
 
 ## 🧠 Our Expertise
 
-**Frontend:** React, Angular, Vue
-**Backend:** Node.js, Laravel, Python
-**Mobile:** Flutter, React Native, iOS, Android
-**AI Stack:** OpenAI, RAG, LLMs, Computer Vision
-**Cloud:** AWS, GCP, Azure
-**Database:** MySQL, PostgreSQL, MongoDB
+- **Frontend:** React, Angular, Vue  
+- **Backend:** Node.js, Laravel, Python  
+- **Mobile:** Flutter, React Native, iOS, Android  
+- **AI Stack:** OpenAI, RAG, LLMs, Computer Vision  
+- **Cloud:** AWS, GCP, Azure  
+- **Database:** MySQL, PostgreSQL, MongoDB  
 
 ---
 
