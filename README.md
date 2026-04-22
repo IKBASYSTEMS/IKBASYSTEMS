@@ -3,15 +3,10 @@
 ### 🚀 Building AI-Powered Web, Mobile & Scalable Digital Solutions
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=16478077386)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Kbasystems)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kbasystems)
-[![Skype](https://img.shields.io/badge/Skype-Connect-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/Hezzod3KUoit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kbasystems/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Kbasystems)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kbasystems/)
-[![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_ouugQcHai2BkdHsTI9c_A/videos)
-[![Dribbble](https://img.shields.io/badge/Dribbble-View-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/kbasystemsindia)
-[![Pinterest](https://img.shields.io/badge/Pinterest-Follow-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/kbasystemsindia/_created/)
-[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kbasystems10)
+
 ---
 
 ## 🏢 About iKBA Systems
