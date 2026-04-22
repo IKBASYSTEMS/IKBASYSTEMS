@@ -2,6 +2,10 @@
 
 ### 🚀 Building AI-Powered Web, Mobile & Scalable Digital Solutions
 
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2f3136?style=for-the-badge&logo=github&logoColor=white)](https://kbasystems.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo@kbasystems.com)
 ---
 
 ## 🏢 About iKBA Systems
@@ -85,13 +89,6 @@ To empower businesses with **intelligent technology**, automation, and scalable 
 * Startup MVP Development
 
 ---
-
-## 📞 Let’s Connect
-
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2f3136?style=for-the-badge&logo=github&logoColor=white)](https://kbasystems.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo@kbasystems.com)
 
 🌐 **Website:** https://kbasystems.com  
 📧 **Email:** ceo@kbasystems.com  
